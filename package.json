@@ -1,0 +1,13 @@
+{
+  "name": "basefold",
+  "version": "0.0.1",
+  "repository": "https://github.com/basefold/basefold",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
