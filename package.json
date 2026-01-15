@@ -9,5 +9,8 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "stepts": "^0.0.2"
   }
 }
