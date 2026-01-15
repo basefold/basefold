@@ -1,0 +1,4 @@
+{
+  "name": "@basefold/core",
+  "main": "lib/index.ts"
+}
