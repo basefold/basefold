@@ -11,6 +11,7 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "manifold-3d": "^3.3.2",
     "stepts": "^0.0.2"
   }
 }
