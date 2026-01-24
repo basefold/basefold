@@ -24,6 +24,16 @@
     // Some stricter flags (disabled by default)
     "noUnusedLocals": false,
     "noUnusedParameters": false,
-    "noPropertyAccessFromIndexSignature": false
+    "noPropertyAccessFromIndexSignature": false,
+
+    "baseUrl": ".",
+    "paths": {
+      "@basefold/core/*": ["./core/lib/*"],
+      "@basefold/core": ["./core/lib/index.ts"],
+      "@basefold/json/*": ["./json/lib/*"],
+      "@basefold/json": ["./json/lib/index.ts"],
+      "@basefold/props/*": ["./props/lib/*"],
+      "@basefold/props": ["./props/lib/index.ts"],
+    }
   }
 }

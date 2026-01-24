@@ -5,7 +5,7 @@ import {
 	Tunnel,
 	ExtrudedFlatFunnel,
 	CenterAlignedOnFace,
-} from "@basefold/tsx";
+} from "@basefold/core";
 
 export const Example01AirKnife = () => (
 	<modeling.Component>
